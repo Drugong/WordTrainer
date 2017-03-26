@@ -1,0 +1,12 @@
+C:\Users\Dugong\Desktop\Sloicka\Sloicka\obj\Debug\Sloicka.csprojResolveAssemblyReference.cache
+C:\Users\Dugong\Desktop\Sloicka\Sloicka\obj\Debug\Sloicka.Form1.resources
+C:\Users\Dugong\Desktop\Sloicka\Sloicka\obj\Debug\Sloicka.csproj.GenerateResource.Cache
+C:\Users\Dugong\Desktop\Sloicka\Sloicka\bin\Debug\WordTrainer.exe.config
+C:\Users\Dugong\Desktop\Sloicka\Sloicka\bin\Debug\WordTrainer.exe
+C:\Users\Dugong\Desktop\Sloicka\Sloicka\bin\Debug\WordTrainer.pdb
+C:\Users\Dugong\Desktop\Sloicka\Sloicka\obj\Debug\WordTrainer.Properties.Resources.resources
+C:\Users\Dugong\Desktop\Sloicka\Sloicka\obj\Debug\WordTrainer.exe
+C:\Users\Dugong\Desktop\Sloicka\Sloicka\obj\Debug\WordTrainer.pdb
+C:\Users\Dugong\Source\Repos\WordTrainer\Sloicka\Sloicka\bin\Debug\WordTrainer.exe.config
+C:\Users\Dugong\Source\Repos\WordTrainer\Sloicka\Sloicka\obj\Debug\WordTrainer.exe
+C:\Users\Dugong\Source\Repos\WordTrainer\Sloicka\Sloicka\obj\Debug\WordTrainer.pdb
