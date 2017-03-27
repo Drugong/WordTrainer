@@ -1,0 +1,3 @@
+C:\Users\Dugong\Source\Repos\WordTrainer\Sloicka\Sloicka\bin\Debug\WordTrainer.exe.config
+C:\Users\Dugong\Source\Repos\WordTrainer\Sloicka\Sloicka\obj\Debug\WordTrainer.exe
+C:\Users\Dugong\Source\Repos\WordTrainer\Sloicka\Sloicka\obj\Debug\WordTrainer.pdb
